@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @Ayush2966
-
+# Hi, I’m Ayush Jain👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AyushJaun?label=Follow)](https://twitter.com/AyushJaun)
 [![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
 ## Watch my contributions get eaten by a snake 🐍
