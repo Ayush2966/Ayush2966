@@ -14,7 +14,7 @@
 # My github stats
 [![](https://github-readme-stats.vercel.app/api?username=Ayush2966)](https://github.com/Ayush2966)
 
-
+# My badges
 [![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
 
 ## Watch my contributions get eaten by a snake 🐍
