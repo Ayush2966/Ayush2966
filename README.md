@@ -13,6 +13,7 @@
 
 # My github stats
 [![](https://github-readme-stats.vercel.app/api?username=Ayush2966)](https://github.com/Ayush2966)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact)](https://github.com/Ayush2966/github-readme-stats)
 
 # My badges
 [![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
