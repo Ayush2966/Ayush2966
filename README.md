@@ -10,10 +10,10 @@
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
 
-# MY github stats
+# My github stats
 [![](https://github-readme-stats.vercel.app/api?username=Ayush2966)](https://github.com/Ayush2966)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi22966&layout=compact)](https://github.com/Ayush2966)
+
 [![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
 
 ## Watch my contributions get eaten by a snake 🐍
