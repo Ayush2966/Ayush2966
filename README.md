@@ -12,8 +12,8 @@
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
 
 # My github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact)](https://github.com/Ayush2966/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api?username=Ayush2966)](https://github.com/Ayush2966)
+| <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 # My badges
