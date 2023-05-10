@@ -18,6 +18,12 @@
 
 # My badges
 [![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
+### Profile Views
+
+![](https://count.getloli.com/get/@Ayush2966.github.readme)
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
