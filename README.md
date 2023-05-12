@@ -16,8 +16,7 @@
 | ------------- | ------------- |
 
 
-# My badges
-[![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
+
 ### Profile Views
 
 ![](https://count.getloli.com/get/@Ayush2966.github.readme)
