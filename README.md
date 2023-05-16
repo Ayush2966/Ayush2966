@@ -6,6 +6,7 @@
 
  
  <img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="175" width="300"/>
+ <br>
 
 🎓 &nbsp;I'm currently studying Information Technology at Indian Institute of Information Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
