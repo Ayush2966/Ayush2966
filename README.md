@@ -4,7 +4,7 @@
 [![Linkedin: Ayush](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p align="middle"> <img src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" alt="dubey2709" , height = "300" ,width = "300"/> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" alt="dubey2709" , height = "300" ,width = "300"/> </p>
 
 🎓 &nbsp;I'm currently studying Information Technology at Indian Institute of Information Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
