@@ -26,6 +26,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+![gitartwork](gitartwork.svg)
 
 <!---
 Ayush2966/Ayush2966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
