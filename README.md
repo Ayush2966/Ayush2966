@@ -28,6 +28,8 @@
 
 ![](https://count.getloli.com/get/@Ayush2966.github.readme)
 </br>
+[![Manjeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush22966&theme=tokyo-night)](https://github.com/Ayush2966/github-readme-activity-graph)
+</br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 <!---
