@@ -5,7 +5,7 @@
 
  
  
-## 👨🏻‍💻 &nbsp;About Me 
+##  &nbsp;About Me 
 
  
  <img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="190" width="300"/>
@@ -18,7 +18,7 @@
 <br>
 
 
-#  📈 My github stats
+## 📈 My github stats
 | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -40,7 +40,7 @@ Ayush2966/Ayush2966 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 ---> 
 
-# Contact 📲
+# Contact 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AyushJaun?label=Follow)](https://twitter.com/AyushJaun)
 [![Instagram: Ayush](https://img.shields.io/badge/-Ayush-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.ayuxxhh._/)](https://www.instagram.com/_.ayuxxhh._/)
 [![Linkedin: Ayush](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
