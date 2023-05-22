@@ -1,5 +1,5 @@
 # Hi, I’m Ayush Jain 😎
-<img alt="Night Coding" src="Ayush Jian.jpg" align="center" height="250" width="1010"/>
+<img alt="Night Coding" src="Ayush Jian (1).jpg" align="center" height="250" width="1010"/>
  <br>
 
 
