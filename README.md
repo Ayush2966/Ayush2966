@@ -12,7 +12,7 @@
  <br>
 
 🎓 &nbsp;I'm currently studying Information Technology at Indian Institute of Information Technology, Bhopal.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, ExpressJS, NodeJS, MongoDb, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
 <br>
