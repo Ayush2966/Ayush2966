@@ -11,7 +11,7 @@
  <img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="190" width="300"/>
  <br>
 
-🎓 &nbsp;I'm currently studying Information Technology at Indian Institute of Information Technology, Bhopal.\
+🎓 &nbsp;I'm prefinal year student at NIT co IIIT, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, ExpressJS, NodeJS, MongoDb, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
