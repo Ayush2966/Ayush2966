@@ -8,7 +8,7 @@
 ##  &nbsp;About Me 
 
  
- <img alt="Night Coding" src="Untitled video - Made with Clipchamp.gif" align="right" height="190" width="300"/>
+ <img alt="Night Coding" src="GIFS/Untitled video - Made with Clipchamp.gif" align="right" height="190" width="300"/>
  <br>
 
 🎓 &nbsp;I'm prefinal year student at NIT co IIIT, Bhopal.\
