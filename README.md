@@ -20,7 +20,7 @@
 
 
 ## My github stats
-|![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&bg_color=ffff) | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true&bg_color=000000" /></a> |
+|![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&bg_color=ffff) | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true&bg_color=000000&font_color=ffffff" /></a> |
 | ------------- | ------------- |
 
 
