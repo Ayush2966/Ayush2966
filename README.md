@@ -32,6 +32,8 @@
 
 ## Profile Views
 
+![](https://count.getloli.com/get/@Ayush2966.github.readme)
+</br>
 
 
 <!---
