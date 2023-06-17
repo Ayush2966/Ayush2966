@@ -30,10 +30,7 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-## Profile Views
 
-![](https://count.getloli.com/get/@Ayush2966.github.readme)
-</br>
 
 
 <!---
