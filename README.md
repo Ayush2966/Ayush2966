@@ -16,7 +16,7 @@
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.\
 
- 📲 &nbsp;<img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
+<img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
 
 
 ## My github stats
