@@ -15,11 +15,9 @@
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, ExpressJS, NodeJS, MongoDb, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
-<br>
- <img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
-<br>
 
-<br>
+ 📲 &nbsp;<img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
+
 
 ## My github stats
 | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true" /></a> |
