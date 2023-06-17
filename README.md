@@ -15,6 +15,7 @@
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, ExpressJS, NodeJS, MongoDb, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
 🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
+<br>
  <img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
 <br>
 
@@ -42,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="footer.png"/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/AyushJaun?label=Follow)](https://twitter.com/AyushJaun)
 [![Instagram: Ayush](https://img.shields.io/badge/-Ayush-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.ayuxxhh._/)](https://www.instagram.com/_.ayuxxhh._/)
 [![Linkedin: Ayush](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
