@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 [![Twitter Follow](https://img.shields.io/twitter/follow/AyushJaun?label=Follow)](https://twitter.com/AyushJaun)
 [![Instagram: Ayush](https://img.shields.io/badge/-Ayush-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.ayuxxhh._/)](https://www.instagram.com/_.ayuxxhh._/)
 [![Linkedin: Ayush](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
+<img src="footer.png"/>
 
   <img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
 
