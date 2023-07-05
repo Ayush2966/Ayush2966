@@ -1,4 +1,4 @@
-# Namaste🙏, I’m Ayush Jain 😎
+# Namaste🙏, I’m Ayush Jain 
 <img alt="Night Coding" src="images/Ayush Jian (1).png" align="center" height="300vh" width="1010vh"/>
  
 
