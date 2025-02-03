@@ -1,4 +1,4 @@
-# Hello, I’m Ayush Jain 😎
+# Hello, I’m Ayush Jain 
 
 
 
