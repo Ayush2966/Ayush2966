@@ -5,18 +5,7 @@
 
  
  
-##  &nbsp;About Me 
 
- 
- <img alt="Night Coding" src="GIFS/Untitled video - Made with Clipchamp.gif" align="right" height="190" width="300"/>
- <br>
-
-🎓 &nbsp;I'm final year student at IIIT, Bhopal.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, ExpressJS, NodeJS, MongoDb, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
-🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
-
-<img src="https://komarev.com/ghpvc/?username=Ayush2966&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush2966" />
 
 
 ## My github stats
